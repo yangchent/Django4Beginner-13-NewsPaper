@@ -2,6 +2,7 @@
 
 - skipped : chapter 12 Email
 - doing now : chapter 16 page no.281 GitHub
+- precommit : clean all test passed
 - heroku trouble :
   $ heroku -version
   bash: heroku: command not found
